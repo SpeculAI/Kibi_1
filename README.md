@@ -1,4 +1,4 @@
-# Kibi 1 MVP Imlementation Local LLM-based Voice Chatbot on Raspberry Pi
+# Kibi 1 MVP Implementation: Local LLM-based Voice Chatbot on Raspberry Pi
 
 This is a demo of an LLM-based voice chatbot that runs locally on Raspbbery Pi.
 It is based on Nick Bild's [Local LLM Assistant](https://github.com/nickbild/local_llm_assistant) project, with some modifications and enhancements.
