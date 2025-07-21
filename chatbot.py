@@ -1,8 +1,7 @@
 #
 # Local LLM-based Voice Assistant running on Raspberry Pi
 # 
-# Ping Zhou
-# https://github.com/zhoupingjay/llm_voice_chatbot_rpi
+# Specul.AI (c)2025
 #
 # It is inspired by Nick Bild's "Local LLM Assistant", with many enhancements:
 # https://github.com/nickbild/local_llm_assistant
