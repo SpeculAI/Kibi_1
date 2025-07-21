@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Specula.AI
 # Create the temp directory for audio recording
 [ -d recording ] || mkdir recording
 # If you want to mount the recording directory in RAM:
